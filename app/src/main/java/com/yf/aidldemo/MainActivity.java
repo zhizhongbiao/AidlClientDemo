@@ -18,7 +18,6 @@ import butterknife.OnClick;
 public class MainActivity extends AppCompatActivity
         implements ServiceConnection {
 
-
     private IMyAidlInterface remoteBinder;
     private int count;
 
